@@ -12,6 +12,7 @@ namespace Week08
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("-----------------------------");
+            Console.WriteLine("-----------------------------");
             Console.WriteLine();
 
             Person person = new Person("Tom",25);
